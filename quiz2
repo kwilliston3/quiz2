@@ -1,0 +1,28 @@
+body {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
+}
+
+head {
+  text-align:center;
+}
+
+h1 {
+  font-weight: bold;
+  text-decoration: underline;
+  border: 2px solid darkorange;
+  padding: 10px 20px;
+}
+
+.dynamic {
+  display: none;
+}
+
+section {
+  margin-bottom: 10px;
+}
+
+fieldset {
+  margin-bottom: 10px;
+  padding: 10px;
+}
